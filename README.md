@@ -4,11 +4,12 @@ Interactive domestic freight advertising planner built with HTML, CSS, JavaScrip
 
 ## Features
 
-- 47 curated industrial and distribution locations
+- 104 curated industrial and distribution locations (47 original + 57 added to fill coverage gaps)
 - Higher, High, Medium and Low planning priorities
 - OpenStreetMap-based interactive map
 - Search and state / freight filters
-- Browser-local shortlist and CSV export
+- Meta Ads targeting: suggested pin + radius (km) for every area, adjustable 1–80 km, map radius circles, copy-to-clipboard
+- Browser-local shortlist and CSV export (includes lat, lng, radius_km)
 - Responsive layout and methodology explanations
 
 ## Run
